@@ -1,0 +1,11 @@
+Model Information:
+* title:	DraftPunk HW#10: Game-Ready Asset (Tamagotchi)
+* source:	https://sketchfab.com/3d-models/draftpunk-hw10-game-ready-asset-tamagotchi-2311779775cb42a5ac81c4a378af176e
+* author:	nyancube (https://sketchfab.com/N01506)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DraftPunk HW#10: Game-Ready Asset (Tamagotchi)" (https://sketchfab.com/3d-models/draftpunk-hw10-game-ready-asset-tamagotchi-2311779775cb42a5ac81c4a378af176e) by nyancube (https://sketchfab.com/N01506) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

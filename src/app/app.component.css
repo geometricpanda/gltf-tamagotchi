@@ -1,0 +1,14 @@
+:host {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-grow: 1;
+  max-width: 1000px;
+  aspect-ratio: 1/1;
+  overflow: hidden;
+}

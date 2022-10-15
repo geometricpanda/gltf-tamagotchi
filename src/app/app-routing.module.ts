@@ -1,10 +1,21 @@
-import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import {NgModule} from '@angular/core';
+import {Route, RouterModule, Routes} from '@angular/router';
 
-const routes: Routes = [];
+const tamagotchi: Route = {
+  path: '',
+  pathMatch: 'full',
+  loadChildren: () =>
+    import('./feature/tamagotchi/tamagotchi.module')
+      .then(m => m.TamagotchiModule),
+}
+
+const routes: Routes = [
+  tamagotchi,
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {
+}
